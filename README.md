@@ -9,6 +9,3 @@
 3.　あとは完了ボタンを押すだけ！  
 
 [サイトはここをクリック！](https://github.com/Yamamoto0818/command-nsyu)
-
--
--
