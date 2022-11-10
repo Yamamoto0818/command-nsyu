@@ -5,6 +5,8 @@ public class Main{
 
 	Scanner stdln = new Scanner(System.in);
 
+	for(int i = 0; i<2; i++){
+
     	System.out.print("身長(m):");
     	double hieght = stdln.nextDouble();
 
@@ -14,6 +16,6 @@ public class Main{
 	double bmi = weight / Math.pow(hieght,2);
 
     	System.out.println("BMI:"+(Math.floor(bmi*100)/100));
-
+	}
 	}
 }
